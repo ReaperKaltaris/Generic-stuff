@@ -1,0 +1,6 @@
+In Cmd - Command Prompt
+
+rename wild(*), text in all files(_JBHiFi),wild(*),period(extension)(.),wild(*),    space(to)( )    ,wild(old name)(*),text you want in all files, period new extension
+ren *_JBHiFi*.* *_JBHiFi.inv
+
+ren PO*.*.* PO*. <-----REMOVES AN EXTENTION!!!!!!!!!!!!!!!!
