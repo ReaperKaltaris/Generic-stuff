@@ -1,0 +1,11 @@
+
+Notepad++
+Find - (LIN\+.\+)3
+Replace - \11
+
+Turns LIN+9+3 into LIN+9+1
+
+(LIN\+.\+) is the first group, captureing LIN+(any single chacaater)+
+3 find the 3
+\1 - replicate the first group 
+1, replace the 3 with 1
