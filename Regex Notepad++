@@ -10,6 +10,15 @@ Turns LIN+9+3 into LIN+9+1
 \1 - replicate the first group 
 1, replace the 3 with 1
 
+-----------------
 Converts American date
 (.*)\/(.*)\/
 \2/\1/
+
+-----------------
+FInd (\+1)0(.*?)'UNH
+Replace \19\2'UNH
+
+100000454'UNH
+190000454'UNH
+-----------------
