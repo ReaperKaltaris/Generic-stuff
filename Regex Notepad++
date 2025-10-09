@@ -22,3 +22,10 @@ Replace \19\2'UNH
 100000454'UNH
 190000454'UNH
 -----------------
+
+(?=) - positive lookahead
+(?!) - negative lookahead
+(?<=) - positive lookbehind
+(?<!) - negative lookbehind
+
+(?>) - atomic group
